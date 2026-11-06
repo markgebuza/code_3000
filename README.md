@@ -3,6 +3,10 @@ Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science 
 
 _Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
 
+## Ethics Statement
+
+As a student, I use AI to help my learning, not to do it for me, because the point of education is to build skills I’ll actually have. I will not submit AI-generated answers as my own work unless specifically requested. I value honesty, so I will follow each course’s AI policy even when I think I wouldn’t get caught, and I’ll ask the professor whenever a policy is unclear. I also value accuracy, so I will verify any fact, citation, or calculation an AI gives me against a reliable source before I rely on it.
+
 ## Outline of Assignments
 
 ### Module 02: Bot Predictor
